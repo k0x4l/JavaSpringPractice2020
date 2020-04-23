@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a4f23f4f-33e8-4d77-8031-f7826fcdf6de" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/day_27_DateTime/Dates_Formatting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_27_DateTime/Dates_Formatting.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -144,6 +145,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1583850295335" />
+    <state x="377" y="12" key="CommitChangelistDialog2" timestamp="1587663738879">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="377" y="12" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1587663738879" />
     <state width="1493" height="132" key="GridCell.Tab.0.bottom" timestamp="1587660614898">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -202,9 +207,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="425" y="189" key="run.anything.popup/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1587156435127" />
-    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1587414008378">
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1587663651285">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1587414008378" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1587663651285" />
   </component>
 </project>
