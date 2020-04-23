@@ -11,5 +11,7 @@ public class Dates_Formatting {
         DateTimeFormatter dtf = DateTimeFormatter.ofPattern("E MMMM_dd_yyyy"); //yyyy/MM/dd
 
         System.out.println(date1.format(dtf));
+        System.out.println(date1.format(dtf));
+        System.out.println(date1.format(dtf));
     }
 }
