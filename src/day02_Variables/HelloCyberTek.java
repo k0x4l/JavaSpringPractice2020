@@ -1,10 +1,12 @@
 package day02_Variables;
 
-public class HelloCyberTek {
+public class HelloCybertek {
 
-    public static void main (String[] args) {
+    public static void main(String[] args){
 
-        System.out.println("Hello CyberTek");
+        System.out.println("Hello Cybertek");
 
     }
+
+
 }

@@ -1,13 +1,13 @@
 package day02_Variables;
 
-public class TellMeAboutYourself {
+public class TellMeAboutYourSelf {
 
     public static void main(String[] args) {
 
-        System.out.println("My Name  : Koksal");
-        System.out.println("Live in  : New Jersey");
-        System.out.println("I do     : Student in CyberTek");
-        System.out.println("Dream Job: Commodore with a Yacht Fleet");
+        System.out.println("My name is Muhtar");
+        System.out.println("I live in Virginia");
+        System.out.println("I learn java");
+        System.out.println("My dream job is QA");
 
     }
 

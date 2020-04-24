@@ -1,62 +1,176 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a4f23f4f-33e8-4d77-8031-f7826fcdf6de" name="Default Changelist" comment="">
+    <list default="true" id="aedbeebd-a4f2-4956-9ba0-051467dbcf25" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring2020B18_Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Spring2020B18_Java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/HackerRank/CalculateDayViaCalendarClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/HackerRank/Number.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/HackerRank/Result.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/HackerRank/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/HackerRank/exercise_01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/HackerRank/string.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/Repl_it/example1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/Repl_it/rent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day01_FirstProgramming/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day01_FirstProgramming/HelloWorld.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day01_FirstProgramming/gasReceipts.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day02_Variables/EmployeeInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day02_Variables/EmployeeInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day02_Variables/EmployeeInfı_Variables.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day02_Variables/EscapeSequences.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day02_Variables/EscapeSequences.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day02_Variables/HelloCyberTek.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day02_Variables/HelloCyberTek.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day02_Variables/StringPractice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day02_Variables/StringPractice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day02_Variables/TellMeAboutYourself.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day02_Variables/TellMeAboutYourself.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day02_Variables/Variables.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day02_Variables/Variables.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day02_Variables/VariablesPractice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day02_Variables/VariablesPractice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day02_Variables/print_VS_println.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day02_Variables/print_VS_println.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day03_VariablesContinue/SalaryCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day03_VariablesContinue/SalaryCalculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_05_Unary_ShortandOperators/PostPre.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_05_Unary_ShortandOperators/PrimitiveCastings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_05_Unary_ShortandOperators/Quzi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_05_Unary_ShortandOperators/UnaryOperators.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_05_Unary_ShortandOperators/VariablesPractice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_06_ShortHandOperators/LogicalOperators.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_06_ShortHandOperators/ShortHandOperators.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_06_ShortHandOperators/SingleIfStatement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_07_IfStatement/If_Else_Statement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_08_IfStatements/DaysInMonth.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_08_IfStatements/MultiBranchIf.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_10_Switch_Scanner/ScanenerPractice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_10_Switch_Scanner/SwitchStatement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_10_Switch_Scanner/rateCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_12_JavaRecap/SalaryCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_12_JavaRecap/Ternary_Practice2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_13_StringlLiterals/StringManipulations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_13_StringlLiterals/StringManipulations2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_13_StringlLiterals/StringManipulations3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_13_StringlLiterals/StringManipulations_Practice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_13_StringlLiterals/stringLiteral.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_14_StringClass/CheckWords.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_14_StringClass/Credentials2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_14_StringClass/IndexOf.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_14_StringClass/StartEndWords.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_14_StringClass/StringManipulations3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_14_StringClass/pracrice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_15_ForLoop/ForLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_15_ForLoop/Reverse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_15_ForLoop/initials.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_16_ForLoop/BreakStatement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_16_ForLoop/CalculateSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_16_ForLoop/ContinueStatement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_16_ForLoop/Continue_Practice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_16_ForLoop/DivisibleBy3_5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_16_ForLoop/EnglishAlphabet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_16_ForLoop/PalindromeTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_16_ForLoop/RemoveDuplicates.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_23_Methods/Methods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_23_Methods/Methods_WithParameters.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_23_Methods/Methods_WithParameters2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_23_Methods/UniqueValues.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_23_Methods/methodPractice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_24_Methods/BirthYear.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_24_Methods/Library.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_24_Methods/ReturnMethods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_24_Methods/TasksFromYesterday.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_24_Methods/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_24_Methods/WarmUps.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_24_Methods/returnMethods_Practice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_25_MethodsRecap/Driver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_27_DateTime/Dates.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_27_DateTime/Dates_Formatting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HackerRank/CalculateDayViaCalendarClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HackerRank/Number.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HackerRank/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HackerRank/exercise_01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HackerRank/string.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Repl_it/example1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Repl_it/rent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day01_FirstProgramming/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day01_FirstProgramming/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day01_FirstProgramming/gasReceipts.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day02_Variables/EmployeeInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day02_Variables/EmployeeInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day02_Variables/EmployeeInfı_Variables.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day02_Variables/EscapeSequences.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day02_Variables/EscapeSequences.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day02_Variables/HelloCyberTek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day02_Variables/HelloCyberTek.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day02_Variables/StringPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day02_Variables/StringPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day02_Variables/TellMeAboutYourself.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day02_Variables/TellMeAboutYourself.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day02_Variables/Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day02_Variables/Variables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day02_Variables/VariablesPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day02_Variables/VariablesPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day02_Variables/print_VS_println.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day02_Variables/print_VS_println.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day03_VariablesContinue/SalaryCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day03_VariablesContinue/SalaryCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_05_Unary_ShortandOperators/PostPre.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_05_Unary_ShortandOperators/PrimitiveCastings.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_05_Unary_ShortandOperators/Quzi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_05_Unary_ShortandOperators/UnaryOperators.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_05_Unary_ShortandOperators/VariablesPractice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_06_ShortHandOperators/LogicalOperators.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_06_ShortHandOperators/ShortHandOperators.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_06_ShortHandOperators/SingleIfStatement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_07_IfStatement/If_Else_Statement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_08_IfStatements/DaysInMonth.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_08_IfStatements/MultiBranchIf.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_10_Switch_Scanner/ScanenerPractice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_10_Switch_Scanner/SwitchStatement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_10_Switch_Scanner/rateCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_12_JavaRecap/SalaryCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_12_JavaRecap/Ternary_Practice2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_13_StringlLiterals/StringManipulations.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_13_StringlLiterals/StringManipulations2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_13_StringlLiterals/StringManipulations3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_13_StringlLiterals/StringManipulations_Practice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_13_StringlLiterals/stringLiteral.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_14_StringClass/CheckWords.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_14_StringClass/Credentials2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_14_StringClass/IndexOf.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_14_StringClass/StartEndWords.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_14_StringClass/StringManipulations3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_14_StringClass/pracrice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_15_ForLoop/ForLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_15_ForLoop/Reverse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_15_ForLoop/initials.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_16_ForLoop/BreakStatement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_16_ForLoop/CalculateSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_16_ForLoop/ContinueStatement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_16_ForLoop/Continue_Practice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_16_ForLoop/DivisibleBy3_5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_16_ForLoop/EnglishAlphabet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_16_ForLoop/PalindromeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_16_ForLoop/RemoveDuplicates.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_23_Methods/Methods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_23_Methods/Methods_WithParameters.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_23_Methods/Methods_WithParameters2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_23_Methods/UniqueValues.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_23_Methods/methodPractice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_24_Methods/BirthYear.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_24_Methods/Library.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_24_Methods/ReturnMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_24_Methods/TasksFromYesterday.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_24_Methods/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_24_Methods/WarmUps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_24_Methods/returnMethods_Practice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_25_MethodsRecap/Driver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_27_DateTime/Dates.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_27_DateTime/Dates_Formatting.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExportToHTMLSettings">
-    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../Spring2020B18_Java\exportToHTML" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GroovyConsoleState">
-    <option name="list">
-      <list>
-        <Entry>
-          <option name="moduleName" value="Spring2020B18_Java" />
-          <option name="url" value="file://$APPLICATION_CONFIG_DIR$/consoles/groovy/groovy_console.groovy" />
-        </Entry>
-      </list>
-    </option>
-  </component>
-  <component name="ProjectId" id="1YuFNVpQXve6ckvg8wkdFWUVdI8" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectViewState">
-    <option name="showExcludedFiles" value="true" />
-    <option name="showLibraryContents" value="true" />
-  </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="Resources" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Application.Dates_Formatting">
-    <configuration name="Dates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day_27_DateTime.Dates" />
+  <component name="RunManager" selected="Application.Birthdays">
+    <configuration name="Birthdays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day28_DateTime.Birthdays" />
       <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day_27_DateTime.*" />
+          <option name="PATTERN" value="day28_DateTime.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,51 +178,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Dates_Formatting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day_27_DateTime.Dates_Formatting" />
+    <configuration name="DateTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day28_DateTime.DateTime" />
       <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day_27_DateTime.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day_25_MethodsRecap.Driver" />
-      <module name="Spring2020B18_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day_25_MethodsRecap.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IndexOf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day_14_StringClass.IndexOf" />
-      <module name="Spring2020B18_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day_14_StringClass.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="returnMethods_Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day_24_Methods.returnMethods_Practice" />
-      <module name="Spring2020B18_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day_24_Methods.*" />
+          <option name="PATTERN" value="day28_DateTime.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +193,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Dates_Formatting" />
-        <item itemvalue="Application.Dates" />
-        <item itemvalue="Application.Driver" />
-        <item itemvalue="Application.IndexOf" />
-        <item itemvalue="Application.returnMethods_Practice" />
+        <item itemvalue="Application.Birthdays" />
+        <item itemvalue="Application.DateTime" />
       </list>
     </recent_temporary>
   </component>
@@ -130,98 +202,24 @@
     <configuration />
   </component>
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="a4f23f4f-33e8-4d77-8031-f7826fcdf6de" name="Default Changelist" comment="" />
-      <created>1583784532560</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1583784532560</updated>
-    </task>
-    <task id="LOCAL-00001" summary="third commit">
-      <created>1587663790457</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1587663790457</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="third commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="third commit" />
-  </component>
   <component name="WindowStateProjectService">
-    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583850295335">
+    <state width="1493" height="132" key="GridCell.Tab.0.bottom" timestamp="1587755032504">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1583850295335" />
-    <state x="377" y="12" key="CommitChangelistDialog2" timestamp="1587663789310">
+    <state width="1493" height="132" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1587755032504" />
+    <state width="1493" height="132" key="GridCell.Tab.0.center" timestamp="1587755032503">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="377" y="12" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1587663789310" />
-    <state width="1493" height="132" key="GridCell.Tab.0.bottom" timestamp="1587663842862">
+    <state width="1493" height="132" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1587755032503" />
+    <state width="1493" height="132" key="GridCell.Tab.0.left" timestamp="1587755032503">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="132" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1587451677247" />
-    <state width="1493" height="132" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1587663842862" />
-    <state width="1493" height="132" key="GridCell.Tab.0.center" timestamp="1587663842862">
+    <state width="1493" height="132" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1587755032503" />
+    <state width="1493" height="132" key="GridCell.Tab.0.right" timestamp="1587755032503">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="132" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1587451677247" />
-    <state width="1493" height="132" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1587663842862" />
-    <state width="1493" height="132" key="GridCell.Tab.0.left" timestamp="1587663842861">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state width="1493" height="132" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1587451677247" />
-    <state width="1493" height="132" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1587663842861" />
-    <state width="1493" height="132" key="GridCell.Tab.0.right" timestamp="1587663842862">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state width="1493" height="132" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1587451677247" />
-    <state width="1493" height="132" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1587663842862" />
-    <state width="1493" height="265" key="GridCell.Tab.1.bottom" timestamp="1585600423740">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state width="1493" height="265" key="GridCell.Tab.1.bottom/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1585600423740" />
-    <state width="1493" height="265" key="GridCell.Tab.1.center" timestamp="1585600423740">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state width="1493" height="265" key="GridCell.Tab.1.center/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1585600423740" />
-    <state width="1493" height="265" key="GridCell.Tab.1.left" timestamp="1585600423740">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state width="1493" height="265" key="GridCell.Tab.1.left/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1585600423740" />
-    <state width="1493" height="265" key="GridCell.Tab.1.right" timestamp="1585600423740">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state width="1493" height="265" key="GridCell.Tab.1.right/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1585600423740" />
-    <state x="277" y="0" key="SettingsEditor" timestamp="1587156440044">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="277" y="0" key="SettingsEditor/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1587156440044" />
-    <state x="277" y="60" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1583850087066" />
-    <state x="465" y="241" width="735" height="571" key="com.intellij.ide.util.TipDialog" timestamp="1587653404743">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="360" y="33" width="735" height="571" key="com.intellij.ide.util.TipDialog/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1587483458833" />
-    <state x="465" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1587653404743" />
-    <state x="428" y="151" width="1122" height="660" key="dock-window-1" timestamp="1587052833871">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="428" y="151" width="1122" height="660" key="dock-window-1/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1587052833871" />
-    <state x="209" y="38" key="new project wizard" timestamp="1583850185396">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="209" y="38" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1583850185396" />
-    <state x="425" y="189" key="run.anything.popup" timestamp="1587156435127">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="425" y="189" key="run.anything.popup/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1587156435127" />
-    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1587663651285">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1587414008378" />
-    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1587663651285" />
+    <state width="1493" height="132" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1587755032503" />
   </component>
 </project>
