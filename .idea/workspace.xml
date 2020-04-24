@@ -2,158 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aedbeebd-a4f2-4956-9ba0-051467dbcf25" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring2020B18_Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Spring2020B18_Java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/HackerRank/CalculateDayViaCalendarClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/HackerRank/Number.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/HackerRank/Result.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/HackerRank/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/HackerRank/exercise_01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/HackerRank/string.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/Repl_it/example1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/Repl_it/rent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day01_FirstProgramming/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day01_FirstProgramming/HelloWorld.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day01_FirstProgramming/gasReceipts.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day02_Variables/EmployeeInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day02_Variables/EmployeeInfo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day02_Variables/EmployeeInfı_Variables.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day02_Variables/EscapeSequences.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day02_Variables/EscapeSequences.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day02_Variables/HelloCyberTek.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day02_Variables/HelloCyberTek.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day02_Variables/StringPractice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day02_Variables/StringPractice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day02_Variables/TellMeAboutYourself.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day02_Variables/TellMeAboutYourself.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day02_Variables/Variables.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day02_Variables/Variables.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day02_Variables/VariablesPractice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day02_Variables/VariablesPractice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day02_Variables/print_VS_println.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day02_Variables/print_VS_println.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day03_VariablesContinue/SalaryCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day03_VariablesContinue/SalaryCalculator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_05_Unary_ShortandOperators/PostPre.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_05_Unary_ShortandOperators/PrimitiveCastings.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_05_Unary_ShortandOperators/Quzi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_05_Unary_ShortandOperators/UnaryOperators.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_05_Unary_ShortandOperators/VariablesPractice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_06_ShortHandOperators/LogicalOperators.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_06_ShortHandOperators/ShortHandOperators.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_06_ShortHandOperators/SingleIfStatement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_07_IfStatement/If_Else_Statement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_08_IfStatements/DaysInMonth.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_08_IfStatements/MultiBranchIf.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_10_Switch_Scanner/ScanenerPractice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_10_Switch_Scanner/SwitchStatement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_10_Switch_Scanner/rateCalculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_12_JavaRecap/SalaryCalculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_12_JavaRecap/Ternary_Practice2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_13_StringlLiterals/StringManipulations.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_13_StringlLiterals/StringManipulations2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_13_StringlLiterals/StringManipulations3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_13_StringlLiterals/StringManipulations_Practice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_13_StringlLiterals/stringLiteral.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_14_StringClass/CheckWords.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_14_StringClass/Credentials2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_14_StringClass/IndexOf.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_14_StringClass/StartEndWords.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_14_StringClass/StringManipulations3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_14_StringClass/pracrice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_15_ForLoop/ForLoop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_15_ForLoop/Reverse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_15_ForLoop/initials.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_16_ForLoop/BreakStatement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_16_ForLoop/CalculateSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_16_ForLoop/ContinueStatement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_16_ForLoop/Continue_Practice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_16_ForLoop/DivisibleBy3_5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_16_ForLoop/EnglishAlphabet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_16_ForLoop/PalindromeTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_16_ForLoop/RemoveDuplicates.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_23_Methods/Methods.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_23_Methods/Methods_WithParameters.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_23_Methods/Methods_WithParameters2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_23_Methods/UniqueValues.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_23_Methods/methodPractice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_24_Methods/BirthYear.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_24_Methods/Library.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_24_Methods/ReturnMethods.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_24_Methods/TasksFromYesterday.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_24_Methods/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_24_Methods/WarmUps.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_24_Methods/returnMethods_Practice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_25_MethodsRecap/Driver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_27_DateTime/Dates.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day_27_DateTime/Dates_Formatting.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HackerRank/CalculateDayViaCalendarClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HackerRank/Number.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HackerRank/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HackerRank/exercise_01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HackerRank/string.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Repl_it/example1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Repl_it/rent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day01_FirstProgramming/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day01_FirstProgramming/HelloWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day01_FirstProgramming/gasReceipts.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day02_Variables/EmployeeInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day02_Variables/EmployeeInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day02_Variables/EmployeeInfı_Variables.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day02_Variables/EscapeSequences.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day02_Variables/EscapeSequences.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day02_Variables/HelloCyberTek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day02_Variables/HelloCyberTek.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day02_Variables/StringPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day02_Variables/StringPractice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day02_Variables/TellMeAboutYourself.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day02_Variables/TellMeAboutYourself.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day02_Variables/Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day02_Variables/Variables.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day02_Variables/VariablesPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day02_Variables/VariablesPractice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day02_Variables/print_VS_println.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day02_Variables/print_VS_println.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day03_VariablesContinue/SalaryCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day03_VariablesContinue/SalaryCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_05_Unary_ShortandOperators/PostPre.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_05_Unary_ShortandOperators/PrimitiveCastings.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_05_Unary_ShortandOperators/Quzi.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_05_Unary_ShortandOperators/UnaryOperators.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_05_Unary_ShortandOperators/VariablesPractice.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_06_ShortHandOperators/LogicalOperators.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_06_ShortHandOperators/ShortHandOperators.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_06_ShortHandOperators/SingleIfStatement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_07_IfStatement/If_Else_Statement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_08_IfStatements/DaysInMonth.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_08_IfStatements/MultiBranchIf.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_10_Switch_Scanner/ScanenerPractice.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_10_Switch_Scanner/SwitchStatement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_10_Switch_Scanner/rateCalculator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_12_JavaRecap/SalaryCalculator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_12_JavaRecap/Ternary_Practice2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_13_StringlLiterals/StringManipulations.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_13_StringlLiterals/StringManipulations2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_13_StringlLiterals/StringManipulations3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_13_StringlLiterals/StringManipulations_Practice.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_13_StringlLiterals/stringLiteral.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_14_StringClass/CheckWords.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_14_StringClass/Credentials2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_14_StringClass/IndexOf.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_14_StringClass/StartEndWords.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_14_StringClass/StringManipulations3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_14_StringClass/pracrice.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_15_ForLoop/ForLoop.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_15_ForLoop/Reverse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_15_ForLoop/initials.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_16_ForLoop/BreakStatement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_16_ForLoop/CalculateSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_16_ForLoop/ContinueStatement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_16_ForLoop/Continue_Practice.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_16_ForLoop/DivisibleBy3_5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_16_ForLoop/EnglishAlphabet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_16_ForLoop/PalindromeTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_16_ForLoop/RemoveDuplicates.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_23_Methods/Methods.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_23_Methods/Methods_WithParameters.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_23_Methods/Methods_WithParameters2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_23_Methods/UniqueValues.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_23_Methods/methodPractice.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_24_Methods/BirthYear.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_24_Methods/Library.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_24_Methods/ReturnMethods.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_24_Methods/TasksFromYesterday.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_24_Methods/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_24_Methods/WarmUps.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_24_Methods/returnMethods_Practice.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_25_MethodsRecap/Driver.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_27_DateTime/Dates.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_27_DateTime/Dates_Formatting.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -202,9 +51,25 @@
     <configuration />
   </component>
   <component name="TaskManager">
+    <task id="LOCAL-00001" summary="04-24">
+      <created>1587757335059</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587757335059</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="04-24" />
+    <option name="LAST_COMMIT_MESSAGE" value="04-24" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="362" y="12" key="CommitChangelistDialog2" timestamp="1587757333071">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="362" y="12" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1587757333071" />
     <state width="1493" height="132" key="GridCell.Tab.0.bottom" timestamp="1587755032504">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -221,5 +86,9 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1493" height="132" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1587755032503" />
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1587757358634">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1587757358634" />
   </component>
 </project>
