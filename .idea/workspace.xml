@@ -3,17 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="aedbeebd-a4f2-4956-9ba0-051467dbcf25" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HackerRank/CalculateDayViaCalendarClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HackerRank/Number.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HackerRank/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HackerRank/exercise_01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HackerRank/string.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Repl_it/PrintUniqueNumbers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Repl_it/PrintUniqueWords.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Repl_it/example1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Repl_it/isDigit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Repl_it/isSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Repl_it/rent.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -193,9 +182,9 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="465" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1588373337356" />
-    <state x="209" y="38" key="new project wizard" timestamp="1588102107561">
+    <state x="209" y="38" key="new project wizard" timestamp="1588373869440">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="209" y="38" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1588102107561" />
+    <state x="209" y="38" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1588373869440" />
   </component>
 </project>
