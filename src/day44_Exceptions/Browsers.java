@@ -46,11 +46,28 @@ class ChromeBrowser extends Browsers{
 
 }
 
+class FirefoxBrowser extends Browsers {
+    @Override
+    public void openBrowser(){
+        System.out.println("Opening the firefox browser");
+    }
+
+    @Override
+    public  void closeBrowser() {
+        System.out.println("Closing the firefox browser");
+    }
+
+}
+
 class Test {
     public static void main(String[] args) {
         ChromeBrowser obj = new ChromeBrowser();
         obj.openBrowser();
         obj.closeBrowser();
+
+        System.out.println("=========================================");
+        FirefoxBrowser obj2 = new FirefoxBrowser();
+        obj2.openBrowser();
     }
 
 }
