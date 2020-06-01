@@ -14,6 +14,6 @@ public class summary {
         try {
             throw new ArrayIndexOutOfBoundsException();
         } catch (ArrayIndexOutOfBoundsException a){ }
-        System.out.println("Completed");
+        System.out.println("Completed:");
     }
 }
