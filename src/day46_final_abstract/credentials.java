@@ -3,7 +3,7 @@ package day46_final_abstract;
 public class credentials {
 
     final private String username = "Cybertek";
-    final private String PassWord = "Cybertek12345";
+   final  private String PassWord = "CtberTek12345";
 
     public String getUsername() {
         return username;
@@ -12,11 +12,11 @@ public class credentials {
     public String getPassWord() {
         return PassWord;
     }
-/*
-    public void setUsername(String username){
-        username = username;
-    }
 
- */
+    /*
+    public void setUserName(String username){
+        this.username = username;
+    }
+     */
 
 }

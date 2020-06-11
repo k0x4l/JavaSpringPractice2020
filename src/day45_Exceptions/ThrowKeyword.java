@@ -3,36 +3,44 @@ package day45_Exceptions;
 import java.io.IOException;
 import java.util.NoSuchElementException;
 
-public class ThrowKeyword {
+public class ThrowKeyWord {
+// chrome, firefox, opera ...
 
-    public static void main(String[] args) {
+    public static void main(String[] args)  {
 
-        NoSuchElementException obj = new NoSuchElementException();
+        NoSuchElementException  obj = new NoSuchElementException();
 
-        //throw obj ;
+        // throw obj;
 
-        //throw new NoSuchElementException();
+     //   throw new NoSuchElementException();
 
-        //System.out.println();
+      //  System.out.println();
 
-        /*
-        boolean breakTime = true ;
+
+        boolean breakTime = true;
 
         if(breakTime){
-            throw new RuntimeException("It's break time, we should take the break");
-            //throw obj ;
+            throw new RuntimeException("It's break time, we should take break");
         }
-        */
 
-        //throw new IOException();
+
+
+   //    throw new IOException();
 
         int[] arr = {5,6,7};
 
-        //System.out.println(arr[100]);
-        //System.out.println(9/0);
+    //    System.out.println(arr[100]);
+     //   System.out.println( 9 / 0 );
 
-        throw new RuntimeException();
-        //System.out.println();
+      //  throw new RuntimeException();
+       // System.out.println();
+
+        try {
+            throw new RuntimeException();
+        }catch (Exception e){
+
+        }
+
 
     }
 }

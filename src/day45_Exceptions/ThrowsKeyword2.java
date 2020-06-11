@@ -17,5 +17,7 @@ public class ThrowsKeyword2 {
         Thread.sleep(4000);
 
         System.out.println("Complete");
+
     }
+
 }
