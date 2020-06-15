@@ -15,7 +15,7 @@ interface AppleApps extends downloadable { // 2 var, 1 abstract method
 }
 
 
-public abstract class Phone {
+public abstract class Phone { // 2 abstract method
     public static String brand;
     public String model;
     public double price;
@@ -25,7 +25,7 @@ public abstract class Phone {
     public abstract void calling(long phoneNumber);
 
     public String toString(){
-        return "brand='" + brand + ", model='" + model + ", price=" + price + ", size='" + size;
+        return "brand= " + brand + ", model= " + model + ", price= " + price + ", size= " + size;
     }
 
 }
