@@ -21,7 +21,7 @@ public class sets {
 
         System.out.println(set1);
 
-      //  System.out.println( set1.get(1) );
+        //System.out.println( set1.get(1) );
 
         System.out.println("=========================================");
         Set<Integer> numbers = new TreeSet<>();
@@ -36,7 +36,7 @@ public class sets {
         System.out.println(hashSet);
 
         TreeSet<String> treeset = new TreeSet<>();
-        treeset.add(null);
+        //treeset.add(null);
 
         System.out.println(treeset);
 

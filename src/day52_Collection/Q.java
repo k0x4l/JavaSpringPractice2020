@@ -8,7 +8,7 @@ public class Q {
     public static void main(String[] args) {
         Queue<String> q = new PriorityQueue<>(); // FIFO
             q.add("D");
-            q.add("A");
+            //q.add("A");
             q.add("B");
             q.add("C");
 
